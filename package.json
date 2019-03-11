@@ -4,6 +4,10 @@
 	"description": "Encouraging quotes from scientists and engineers",
 	"publisher": "AMesi",
 	"version": "1.0.0",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/mesi17/you-got-this-extension"
+	},
 	"engines": {
 		"vscode": "^1.32.0"
 	},
